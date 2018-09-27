@@ -1,2 +1,0 @@
-# throwback
-trabajo induccion UTP
